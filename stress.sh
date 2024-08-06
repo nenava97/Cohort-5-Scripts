@@ -1,15 +1,15 @@
 #!/bin/bash
 
 # Total duration to run the stress test (in seconds)
-TOTAL_DURATION=660  # 11 minutes
+TOTAL_DURATION=900  # 15 minutes
 
 # Spike duration (in seconds)
-SPIKE_DURATION=300 # 5 minutes
+SPIKE_DURATION=600 # 10 minutes
 
 # Rest duration (in seconds)
 REST_DURATION=30 # 1/2 minute
 
-# Stress the CPU with 1 worker
+# Stress the CPU with 3 workers
 CPU_WORKERS=3
 
 # Function to start stress test
