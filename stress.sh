@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Total duration to run the stress test (in seconds)
-TOTAL_DURATION=660  # 10 minutes
+TOTAL_DURATION=660  # 11 minutes
 
 # Spike duration (in seconds)
 SPIKE_DURATION=300 # 5 minutes
