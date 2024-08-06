@@ -7,7 +7,7 @@ TOTAL_DURATION=660  # 10 minutes
 SPIKE_DURATION=300 # 5 minutes
 
 # Rest duration (in seconds)
-REST_DURATION=30 # 1 minute
+REST_DURATION=30 # 1/2 minute
 
 # Stress the CPU with 1 worker
 CPU_WORKERS=3
